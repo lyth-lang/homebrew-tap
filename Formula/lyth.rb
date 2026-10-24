@@ -1,8 +1,8 @@
 class Lyth < Formula
   desc "Statically typed language that compiles to readable Go"
   homepage "https://lyth.bkymz.net"
-  url "https://github.com/lyth-lang/lyth/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "c5083ae2bfa1455b022036592380258a31691918560f8ee39da2403eb9c079d6"
+  url "https://github.com/lyth-lang/lyth/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "199b0f8f65124756fdf40a855a2b9bb03abcbec190126f34841f7150eec69515"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/lyth-lang/lyth.git", branch: "main"
 
